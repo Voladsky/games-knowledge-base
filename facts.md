@@ -1,4 +1,6 @@
-# Игра:
+# Facts List
+
+## Games:
 F101: Battlefield
 F102: Battlefield 2042
 F104: Battlefield 1
@@ -24,94 +26,89 @@ F124: Factorio
 F125: OSU
 F126: Counter Strike
 F127: League of Legends
-F128: Age of Empires IV
 F129: Dark Souls
 F130: Ghost of Tsushima
-F131: Red Dead Redemption 2
 F132: Fortnite
 F133: Among Us
 F134: Apex Legends
 F135: Cyberpunk 2077
-F136: Assassin's Creed Valhalla
 F137: The Witcher 3
 F138: Hollow Knight
 F139: Darkest Dungeon
 F140: Baldur's Gate 3
 F141: The Sims 4
+F150: Fallout Shelter
 
-# Графика:
-F201: От 1-го лица
-F202: От 3-го лица
-F203: Реалистичная графика
-F204: Пиксельная графика
+## Graphics:
+F201: First Person View
+F202: Third Person View
+F203: Realistic Graphics
+F204: Pixel Graphics
 F205: 3D
 F206: 2D
-F207: Разрушаемость
-F208: Вид сверху
-F209: Вид сбоку
-F210: Реалистичная 2.5D
-F211: Воксельная графика
+F207: Destructibility
+F208: Top-down View
+F209: Side View
+F210: Realistic 2.5D
+F211: Voxel Graphics
 
-# Жанр:
-F301: Ритм-игра
-F302: Шутер
-F303: Платформер
-F304: Стратегия
-F305: Головоломка
+## Genre:
+F301: Rhythm Game
+F302: Shooter
+F303: Platformer
+F304: Strategy
+F305: Puzzle
 F306: RPG
-F307: Песочница
-F308: Казуальная
-F309: Хоррор
-F310: Survival-Horror
-F311: Пошаговая
+F307: Sandbox
+F308: Casual
+F309: Horror
+F310: Survival Horror
+F311: Turn-Based
 F312: Real-Time
 F313: MOBA
 F314: Roguelike
-F315: Экшен-RPG
-F316: Симулятор
-F317: Детективная игра
+F315: Action-RPG
+F316: Simulator
+F317: Detective Game
 
-# Механики:
-F401: Классовый шутер
-F402: Выживание
-F403: Можно рыбачить
-F404: Менеджмент ресурсов
-F405: Скрытность
-F406: Исследование
-F407: Крафтинг
-F408: Построение базы
-F409: Карточные битвы
-F410: Микро-менеджмент
+## Mechanics:
+F401: Class-Based Shooter
+F402: Survival
+F403: Fishing
+F404: Resource Management
+F405: Stealth
+F406: Exploration
+F407: Crafting
+F408: Base Building
+F409: Card Battles
+F410: Micro-Management
 
-# Стиль:
-F501: Фэнтэзи
-F502: Фантастика
-F503: Историческая
-F504: Ретро
-F505: Дизельпанк
-F506: Стимпанк
+## Style:
+F501: Fantasy
+F502: Sci-Fi
+F503: Historical
+F504: Retro
+F505: Dieselpunk
+F506: Steampunk
 
-# Характеристика:
-F601: Онлайн
-F602: Оффлайн
-F603: Кооператив
-F604: Соревновательная
+## Characteristics:
+F601: Online
+F602: Offline
+F603: Co-Op
+F604: Competitive
 F605: Triple A
-F606: Инди
-F607: Сюжетная
-F608: Новая
-F609: Старая
-F610: Бесплатная
-F611: Платная
-F612: Сложная
-F613: Однопользовательская
-F614: Мультиплеерная
-F615: Бесплатные дополнения
-F616: Затягивающая
+F606: Indie
+F607: Story-Driven
+F608: New
+F609: Old
+F610: Free
+F611: Paid
+F612: Difficult
+F613: Single-Player
+F614: Multiplayer
+F615: Free Expansions
+F616: Addictive
 
-# Бонус за безумный трюк:
-F701: Говно
-F702: База
-
-# Игра = Графика + жанр + стиль + характеристика + безумный трюк
-# Исходные: жанр, стиль(?)
+## Special:
+F701: Bad
+F702: Classic
