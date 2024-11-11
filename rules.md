@@ -34,6 +34,10 @@ F604 -> F612
 F315 -> F205
 ## Roguelike implies Difficult
 F314 -> F612
+## Multiplayer implies Online
+F614 -> F601
+## Singleplayer implies Offline
+F613 -> F602
 ## MOBA + Multiplayer implies Competitive
 F313; F614 -> F604
 ## Retro implies Pixel Graphics
@@ -131,3 +135,5 @@ F313; F203; F604 -> F134
 F612; F612; F303; F602 -> F138
 ## 3D + Third Person + Difficult implies Dark Souls
 F205; F202; F612 -> F129
+## Online + Detective Game + Top-down View implies Among Us
+F601; F317; F208 -> F133
